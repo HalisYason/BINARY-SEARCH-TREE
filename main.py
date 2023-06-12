@@ -1,7 +1,7 @@
 
 
 
-# bir db de bulunan çalışanlara ait isim ve maas bilgilerini çekip hızlı bir şekilde arama gerçekleştirecek BST algoritması yaz..
+# bir db de bulunan çalışanlara ait isim ve maas bilgilerini çekip hızlı bir şekilde arama gerçekleştirecek BST algoritması ..
 
 
 import sqlite3 as sql
