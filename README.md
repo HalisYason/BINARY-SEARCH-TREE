@@ -1,2 +1,2 @@
 # BINARY-SEARCH-TREE
-database e kayıt edilen çalışan verilerini BST kullanarak arama yaparak yazdırma işlemi.
+database e kayıt edilen çalışan  bilgilerini  BST kullanarak arama ve  ekrana yazdırma işlemi.
