@@ -120,7 +120,11 @@ for i in data:
 name = input("çalışan ismi: ")
 
 result = tree_of_employe.search_employe(name)
-print(f"\nçalışan ismi: {result.name}\nçalışan maaşı: {result.salary} TL")
+
+if result:
+    print(f"\nçalışan ismi: {result.name}\nçalışan maaşı: {result.salary} TL")
+else:
+    print("böyle bir çalışan yok!")
 
 
 
