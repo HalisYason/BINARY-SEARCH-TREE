@@ -1,2 +1,6 @@
 # BINARY-SEARCH-TREE
-database e kayıt edilen çalışan  bilgilerini  BST kullanarak arama ve  ekrana yazdırma işlemi.
+
+**database e kayıt edilen çalışan  bilgilerini  BST kullanarak arama ve  ekrana yazdırma işlemi.**
+
+## Avantajları
+- daha hızlı bir arama sağlar
