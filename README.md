@@ -1,6 +1,5 @@
-# BINARY-SEARCH-TREE
+# BİNARY SEARCH TREE
+**The process of searching and printing employee information saved to the database using BST..**
 
-**database e kayıt edilen çalışan  bilgilerini  BST kullanarak arama ve  ekrana yazdırma işlemi.**
-
-## Avantajları
-- daha hızlı bir arama sağlar
+## Advantages
+ - provides a faster Decryption search
